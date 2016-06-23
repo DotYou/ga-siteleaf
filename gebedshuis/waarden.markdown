@@ -1,6 +1,7 @@
 ---
 title: Onze waarden
 date: 2016-06-23 22:24:00 +02:00
+layout: default
 ---
 
 Belangrijker dan de vraag wat we precies doen, is de vraag waarom we doen wat we doen. Als de waarden achter de praktijken duidelijk zijn, kunnen ten eerste zelf blijven toetsen of we wel de juiste dingen doen. Maar ten tweede kan iedereen die betrokken wil zijn, zelf ontdekken welke aspecten van Gods openbaring in Zijn Woord ons motiveren en aanleiding zijn om dingen wel of niet te doen, of bepaalde vormen na te jagen.
