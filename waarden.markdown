@@ -1,7 +1,7 @@
 ---
 title: Onze waarden
 date: 2016-06-23 22:24:00 +02:00
-position: 0
+position: 1
 layout: default
 ---
 

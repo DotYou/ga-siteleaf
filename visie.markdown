@@ -1,7 +1,7 @@
 ---
 title: Onze visie
 date: 2016-06-23 21:21:00 +02:00
-position: 1
+position: 0
 layout: default
 ---
 
