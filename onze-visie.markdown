@@ -1,6 +1,7 @@
 ---
 title: Onze visie
 date: 2016-06-23 21:21:00 +02:00
+layout: default
 ---
 
 Gebedshuis Amersfoort is een plek midden in Nederland, waar Gods aanwezigheid voortdurend centraal staat in aanbidding, persoonlijk gebed, intercessie, het Woord en een  levensstijl van liefde.
